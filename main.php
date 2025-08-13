@@ -4,13 +4,14 @@ $age = "20";
 $school = "GRC";
 $course = "BSIT;
 $subject = "WEBSYS";
+$student = "yes";
 
 
-echo "I am $name \n";
-echo "I am $age years old \n";
-echo "I am from school \n";
-echo "My Course is $course \n";
-echo "Are you okay $okay \n;
+echo "I am $name <br>";
+echo "I am $age years old <br>";
+echo "I am from school <br>";
+echo "My Course is $course <br";
+echo "Are you okay $okay <br>";
 
 
 
